@@ -1,4 +1,4 @@
-### captivating music landing page
+### Captivating music landing page
 - - - -
 ## :rocket: Tech Stack used: 
 - HTML
